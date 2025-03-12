@@ -1,4 +1,5 @@
-
+<!-- image/gif of kyles dad from south park
+-->
 # Forecasting average sentiment of social media posts
 
 ![License](https://img.shields.io/badge/license-CC0%201.0-brightgreen.svg) <!-- Update the license badge as needed -->
